@@ -3,11 +3,11 @@
 
 This repository contains example HTML feeds which can be used for testing purposes. Some quick links to HTML feed text files are:
 
-[https://htmlfeeds.github.io/Examples/raccoons/index.txt](https://htmlfeeds.github.io/Examples/raccoons/index.txt)
+[https://raw.githubusercontent.com/HTMLFeeds/Examples/main/raccoons/index.txt](https://raw.githubusercontent.com/HTMLFeeds/Examples/main/raccoons/index.txt)
 
-[https://htmlfeeds.github.io/Examples/red-flowers/index.txt](https://htmlfeeds.github.io/Examples/red-flowers/index.txt)
+[https://raw.githubusercontent.com/HTMLFeeds/Examples/main/red-flowers/index.txt](https://raw.githubusercontent.com/HTMLFeeds/Examples/main/red-flowers/index.txt)
 
-[https://htmlfeeds.github.io/Examples/trees/index.txt](https://htmlfeeds.github.io/Examples/trees/index.txt)
+[https://raw.githubusercontent.com/HTMLFeeds/Examples/main/trees/index.txt](https://raw.githubusercontent.com/HTMLFeeds/Examples/main/trees/index.txt)
 
 You can follow these feeds by visiting the URL below on a device with a compatible HTML feed reader app installed:
 
